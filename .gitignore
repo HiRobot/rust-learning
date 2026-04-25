@@ -1,0 +1,20 @@
+# Rust build output
+target/
+
+# Cargo lock (for libraries; keep for binaries if preferred)
+# Cargo.lock
+
+# Editor & IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Claude Code
+.claude/
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
